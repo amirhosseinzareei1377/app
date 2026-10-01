@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Atlas" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">#071018</item>
+        <item name="android:statusBarColor">#071018</item>
+        <item name="android:navigationBarColor">#071018</item>
+        <item name="android:colorAccent">#55E6FF</item>
+    </style>
+</resources>
