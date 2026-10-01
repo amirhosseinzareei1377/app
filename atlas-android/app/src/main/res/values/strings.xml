@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Atlas</string>
+    <string name="accessibility_description">Atlas can observe and control the phone only when you enable this service.</string>
+</resources>
